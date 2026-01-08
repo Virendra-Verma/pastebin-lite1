@@ -47,6 +47,6 @@ Persistence:
 
 👨‍💻 Author
 
-Virendra Verma
+Virendra Kumar Verma
 Full-Stack Developer (Fresher)
 Skilled in React, FastAPI, REST APIs, and Database Integration
