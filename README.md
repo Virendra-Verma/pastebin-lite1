@@ -1,5 +1,22 @@
 # Pastebin-Lite Assignment
 
+# 📁 Project Structure
+- pastebin-lite/
+├── backend/
+│   ├── app/
+│   │   └── main.py        # FastAPI backend
+│   ├── requirements.txt  # Backend dependencies
+│   └── pastes.db         # SQLite database (auto-generated)
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx       # Main React component
+│   │   └── main.jsx      # React entry point
+│   ├── index.html
+│   └── package.json
+│
+└── README.md
+
 Backend:
 
 - Python FastAPI
@@ -22,3 +39,14 @@ npm run dev
 Persistence:
 
 - SQLite database stored on disk
+
+
+
+
+
+
+👨‍💻 Author
+
+Virendra Verma
+Full-Stack Developer (Fresher)
+Skilled in React, FastAPI, REST APIs, and Database Integration
