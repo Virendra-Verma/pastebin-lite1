@@ -40,6 +40,12 @@ Persistence:
 
 - SQLite database stored on disk
 
+- 🌐 Deployment
+
+This project is optimized for Vercel deployment.
+https://frontend-two-snowy-38.vercel.app/
+
+
 
 
 
